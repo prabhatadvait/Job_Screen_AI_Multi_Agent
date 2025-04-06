@@ -60,7 +60,7 @@ Use `cron` to automate the shortlisting pipeline periodically.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Job_Screening_AI.git
+git clone htttps://github.com/prabhatadvait/Job_Screen_AI_Multi_Agent.git
 cd Job_Screening_AI
 pip install -r requirements.txt
 ```
